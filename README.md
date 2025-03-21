@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Electronic and Telecommunication Engineer** with experience in **data center engineering, access control systems, and electronic security**. I specialize in managing mission-critical infrastructure, ensuring zero downtime in high-security environments such as oil & gas and telecommunications.
 
-Additionally, I have experience in **web development**, and I'm currently expanding my expertise in **cloud computing (AWS), advanced networking, and artificial intelligence**. I strongly believe that AI is revolutionizing various industries, and I'm actively exploring its applications in my field.
+Additionally, I have experience in **web development**, and I'm currently expanding my skills in **cloud computing (AWS), networking, and artificial intelligence**. I strongly believe that AI is revolutionizing various industries, and I'm actively exploring its applications in my field.
 
 🔹 **Security & Access Control** | 🔹 **Data Center Operations** | 🔹 **Cloud & Networking** | 🔹 **Automation & AI** | 🔹 **Web Development**
 
