@@ -2,7 +2,7 @@
 
 **Electronic & Telecommunication Engineer | Data Center & Access Control Specialist | Aspiring Senior Engineer**
 
-I'm a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Movitel**.
+I'm a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Movitel at Maputo Main Station**.
 
 🔐 Over the last few years, I've worked in critical operations across sectors such as Oil & Gas and Telecommunications, ensuring secure, high-availability infrastructure.
 
