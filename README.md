@@ -76,7 +76,7 @@ Below are a few snapshots from the field — working with infrastructure, securi
   </tr>
 </table>
 
-> 📸 These are just a few moments. Every picture tells a story of engineering, collaboration, and impact on the ground.
+> 📸 These are just a few moments.
 
 
 ## 📫 Connect with Me
