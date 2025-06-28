@@ -8,10 +8,7 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 
 🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **Python** and **Cloud computing**.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 2ab5e1051bd2a895ff00b6abf0e6ba6fede454e1
 ## 🛠️ My Core Skills
 
 - **Data Center Engineering**: Tier IV uptime, Power Systems, HVAC, UPS, Rectifiers
@@ -21,6 +18,7 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 - **Cloud & Virtualization**: AWS, VMware basics
 - **Project Management**: Agile methodologies, Cross-functional team leadership
 - **Problem-Solving & Teamwork**: Proven ability in crisis response, training, and cross-functional collaboration
+
 
 ## 📌 Highlight Projects
 
