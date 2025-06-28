@@ -70,8 +70,8 @@ Below are a few snapshots from the field — working with infrastructure, securi
     <td><img src="img/slide-6.jpeg" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Overseeing the initial setup of the second server room</sub></td>
-    <td align="center"><sub>Mozambique LNG Project (processing unit concept)</sub></td>
+    <td align="center"><sub>Initial setup of the second server room</sub></td>
+    <td align="center"><sub>Mozambique LNG Project (processing unit)</sub></td>
     <td align="center"><sub>Inspecting genset conditions prior to startup</sub></td>
   </tr>
 </table>
