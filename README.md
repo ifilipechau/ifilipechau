@@ -2,25 +2,31 @@
 
 **Electronic & Telecommunication Engineer | Data Center & Access Control Specialist | Aspiring Senior Engineer**
 
-Welcome to my GitHub! I'm Filipe Chau, a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Movitel**.
+I'm a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Movitel at Maputo Main Station**.
 
 🔐 Over the last few years, I've worked in critical operations across sectors such as Oil & Gas and Telecommunications, ensuring secure, high-availability infrastructure.
 
 🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **Python** and **Cloud computing**.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2ab5e1051bd2a895ff00b6abf0e6ba6fede454e1
 ## 🛠️ My Core Skills
 
 - **Data Center Engineering**: Tier IV uptime, Power Systems, HVAC, UPS, Rectifiers
-- **Access Control & Security**: Biometric, RFID, CCTV, Firewalls, Intrusion Detection
-- **Network & Systems**: Windows/Linux, Network Infrastructure, 5G rollout experience
+- **Access Control & Security**: Biometric, RFID, CCTV, Firewalls
+- **Network & Systems**: Windows/Linux, Network Infrastructure
 - **Programming**: Python, Bash scripting, Automation
 - **Cloud & Virtualization**: AWS, VMware basics
 - **Project Management**: Agile methodologies, Cross-functional team leadership
 - **Problem-Solving & Teamwork**: Proven ability in crisis response, training, and cross-functional collaboration
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2ab5e1051bd2a895ff00b6abf0e6ba6fede454e1
 ## 📌 Highlight Projects
 
 Here are a few projects I've built just for fun and learning, available in my GitHub repos:
@@ -47,6 +53,39 @@ Some of my recent posts:
 *(More blog links coming soon – I'm writing regularly!)*
 
 
+## 🖼️ Field Gallery – My Work in Action
+
+Below are a few snapshots from the field — working with infrastructure, security systems, and critical facilities across Mozambique LNG and Movitel:
+
+<table>
+  <tr>
+    <td><img src="assets/photos/datacenter-setup.jpg" width="250"/></td>
+    <td><img src="assets/photos/access-control-station.jpg" width="250"/></td>
+    <td><img src="assets/photos/fpb-cabling.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Rack setup @ Movitel Tier IV DC</sub></td>
+    <td align="center"><sub>Access control monitoring @ LNG site</sub></td>
+    <td align="center"><sub>Security system install @ FPB project</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets/photos/team-handover.jpg" width="250"/></td>
+    <td><img src="assets/photos/equipment-training.jpg" width="250"/></td>
+    <td><img src="assets/photos/afungi-airlock.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Team handover @ TotalEnergies</sub></td>
+    <td align="center"><sub>Training personnel on surveillance systems</sub></td>
+    <td align="center"><sub>Gate control @ Afungi Airlock</sub></td>
+  </tr>
+</table>
+
+> 📸 These are just a few moments. Every picture tells a story of engineering, collaboration, and impact on the ground.
+
+
 ## 📫 Connect with Me
 
 - 📧 Email: [filipechau@outlook.pt](mailto:filipechau@outlook.pt)
@@ -59,9 +98,8 @@ Some of my recent posts:
 
 I'm not yet a senior engineer—but I work every day to earn that title.
 
-- Learning advanced Python and automation techniques
-- Exploring cloud technologies (AWS, Azure)
-- Building real-world tools with AI and machine learning
+- Exploring cloud, AI and Machine learning
+- Building useful tools
 - Writing and sharing my knowledge
 - Collaborating on meaningful engineering challenges
 
