@@ -43,6 +43,40 @@ Some of my recent posts:
 
 *(More blog links coming soon – I'm writing regularly!)*
 
+---
+
+## 🖼️ Field Gallery – My Work in Action
+
+Below are a few snapshots from the field — working with infrastructure, security systems, and critical facilities across Mozambique LNG and Movitel:
+
+<table>
+  <tr>
+    <td><img src="assets/photos/datacenter-setup.jpg" width="250"/></td>
+    <td><img src="assets/photos/access-control-station.jpg" width="250"/></td>
+    <td><img src="assets/photos/fpb-cabling.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Rack setup @ Movitel Tier IV DC</sub></td>
+    <td align="center"><sub>Access control monitoring @ LNG site</sub></td>
+    <td align="center"><sub>Security system install @ FPB project</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets/photos/team-handover.jpg" width="250"/></td>
+    <td><img src="assets/photos/equipment-training.jpg" width="250"/></td>
+    <td><img src="assets/photos/afungi-airlock.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Team handover @ TotalEnergies</sub></td>
+    <td align="center"><sub>Training personnel on surveillance systems</sub></td>
+    <td align="center"><sub>Gate control @ Afungi Airlock</sub></td>
+  </tr>
+</table>
+
+> 📸 These are just a few moments. Every picture tells a story of engineering, collaboration, and impact on the ground.
+
 
 ## 📫 Connect with Me
 
