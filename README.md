@@ -56,8 +56,8 @@ Some of my recent posts:
 
 I'm not yet a senior engineer—but I work every day to earn that title.
 
-- Exploring cloud technologies (AWS, Azure)
-- Building real-world tools with AI and machine learning
+- Exploring cloud, AI and Machine learning
+- Building useful tools
 - Writing and sharing my knowledge
 - Collaborating on meaningful engineering challenges
 
