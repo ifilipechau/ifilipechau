@@ -28,7 +28,7 @@ Here are a few projects I've built just for fun and learning, available in my Gi
 - 🔌 **GeraPower — Dimensionador de Geradores Residenciais**
 - 🧠 **Data Center Monitoring Tool (Concept)**
 - 🌐 **Personal Portfolio Website** – [Live here](https://filipe-chau.github.io/MyPortfolio/)
--  **Company Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
+- 💻 **Company Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
 
 > I'm always experimenting and building—check the pinned repositories to explore more.
 
