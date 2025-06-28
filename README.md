@@ -11,8 +11,8 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 ## 🛠️ My Core Skills
 
 - **Data Center Engineering**: Tier IV uptime, Power Systems, HVAC, UPS, Rectifiers
-- **Access Control & Security**: Biometric, RFID, CCTV, Firewalls, Intrusion Detection
-- **Network & Systems**: Windows/Linux, Network Infrastructure, 5G rollout experience
+- **Access Control & Security**: Biometric, RFID, CCTV, Firewalls
+- **Network & Systems**: Windows/Linux, Network Infrastructure
 - **Programming**: Python, Bash scripting, Automation
 - **Cloud & Virtualization**: AWS, VMware basics
 - **Project Management**: Agile methodologies, Cross-functional team leadership
@@ -56,7 +56,6 @@ Some of my recent posts:
 
 I'm not yet a senior engineer—but I work every day to earn that title.
 
-- Learning advanced Python and automation techniques
 - Exploring cloud technologies (AWS, Azure)
 - Building real-world tools with AI and machine learning
 - Writing and sharing my knowledge
