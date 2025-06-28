@@ -57,9 +57,9 @@ Below are a few snapshots from the field — working with infrastructure, securi
     <td><img src="img/slide-3.png" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Tranining Session </sub></td>
-    <td align="center"><sub>Access control monitoring @ LNG site</sub></td>
-    <td align="center"><sub>Security system install @ FPB project</sub></td>
+    <td align="center"><sub>Conducting a training session on the Fire Alarm System</sub></td>
+    <td align="center"><sub>Managing Genetec-based Access Control Systems on site</sub></td>
+    <td align="center"><sub>Testing server connectivity and network readiness</sub></td>
   </tr>
 </table>
 
@@ -70,9 +70,9 @@ Below are a few snapshots from the field — working with infrastructure, securi
     <td><img src="img/slide-6.jpeg" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Team handover @ TotalEnergies</sub></td>
-    <td align="center"><sub>Training personnel on surveillance systems</sub></td>
-    <td align="center"><sub>Gate control @ Afungi Airlock</sub></td>
+    <td align="center"><sub>Overseeing the initial setup of the second server room</sub></td>
+    <td align="center"><sub>On the ground with the Mozambique LNG Infrastructure Project</sub></td>
+    <td align="center"><sub>Inspecting generator conditions prior to startup</sub></td>
   </tr>
 </table>
 
