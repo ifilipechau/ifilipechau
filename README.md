@@ -39,12 +39,12 @@ Here are a few projects I've built just for fun and learning, available in my Gi
 
 I also write about engineering concepts, lessons from the field, and emerging tech topics:
 
-📖 [My Blogger Articles](https://www.blogger.com/profile/08234539803351889736)
+📖 [My Blogger Articles](https://mozitroom.blogspot.com/search/label/filipe-chau)
 
 Some of my recent posts:
-- [How Data Centers Stay Online: Inside a Tier IV Facility](#)
-- [Access Control in Critical Zones: Lessons from LNG](#)
-- [Starting With Python as an Engineer](#)
+- [Episódio 3: A rotina de operação e o monitoramento de um data center](https://mozitroom.blogspot.com/2025/06/episodio-3-rotina-de-operacao-e-o.html)
+- [Episódio 2: Sistemas e equipamentos vitais no Data Center](https://mozitroom.blogspot.com/2025/06/episodio-2-sistemas-e-equipamentos.html)
+- [Episódio 1: O que é um Data Center e como tudo começa](https://mozitroom.blogspot.com/2025/06/episodio-1-o-que-e-um-data-center-e.html)
 
 *(More blog links coming soon – I'm writing regularly!)*
 
@@ -63,8 +63,9 @@ Some of my recent posts:
 
 I'm not yet a senior engineer—but I work every day to earn that title.
 
-- Learning advanced Python and automation
-- Building real-world tools
+- Learning advanced Python and automation techniques
+- Exploring cloud technologies (AWS, Azure)
+- Building real-world tools with AI and machine learning
 - Writing and sharing my knowledge
 - Collaborating on meaningful engineering challenges
 
