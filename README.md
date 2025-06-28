@@ -27,7 +27,7 @@ Here are a few projects I've built just for fun and learning, available in my Gi
 - 🔌 **GeraPower — Dimensionador de Geradores Residenciais**
 - 🧠 **Data Center Monitoring Tool (Concept)**
 - 🌐 **Personal Portfolio Website** – [Live here](https://filipe-chau.github.io/MyPortfolio/)
-- 💻 **Company Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
+- 💻 **Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
 
 > I'm always experimenting and building—check the pinned repositories to explore more.
 
@@ -52,12 +52,12 @@ Below are a few snapshots from the field — working with infrastructure, securi
 
 <table>
   <tr>
-    <td><img src="assets/photos/datacenter-setup.jpg" width="250"/></td>
-    <td><img src="assets/photos/access-control-station.jpg" width="250"/></td>
-    <td><img src="assets/photos/fpb-cabling.jpg" width="250"/></td>
+    <td><img src="img/slide-1.jpeg" width="250"/></td>
+    <td><img src="img/slide-2.jpeg" width="250"/></td>
+    <td><img src="img/slide-3.png" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Rack setup @ Movitel Tier IV DC</sub></td>
+    <td align="center"><sub>Tranining Session </sub></td>
     <td align="center"><sub>Access control monitoring @ LNG site</sub></td>
     <td align="center"><sub>Security system install @ FPB project</sub></td>
   </tr>
@@ -65,9 +65,9 @@ Below are a few snapshots from the field — working with infrastructure, securi
 
 <table>
   <tr>
-    <td><img src="img/slide-2.png" width="250"/></td>
-    <td><img src="img/slide-3.png" width="250"/></td>
-    <td><img src="img/slide-4.png" width="250"/></td>
+    <td><img src="img/slide-4.jpeg" width="250"/></td>
+    <td><img src="img/slide-5.jpeg" width="250"/></td>
+    <td><img src="img/slide-6.jpeg" width="250"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Team handover @ TotalEnergies</sub></td>
