@@ -72,9 +72,9 @@ Below are a few snapshots from the field — working with infrastructure, securi
 
 <table>
   <tr>
-    <td><img src="assets/photos/team-handover.jpg" width="250"/></td>
-    <td><img src="assets/photos/equipment-training.jpg" width="250"/></td>
-    <td><img src="assets/photos/afungi-airlock.jpg" width="250"/></td>
+    <td><img src="img/slide-2.png" width="250"/></td>
+    <td><img src="img/slide-3.png" width="250"/></td>
+    <td><img src="img/slide-4.png" width="250"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Team handover @ TotalEnergies</sub></td>
