@@ -8,8 +8,6 @@ Welcome to my GitHub! I'm Filipe Chau, a Mozambican engineer with a strong backg
 
 🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **Python** and **Cloud computing**.
 
----
-
 ## 🛠️ My Core Skills
 
 - **Data Center Engineering**: Tier IV uptime, Power Systems, HVAC, UPS, Rectifiers
@@ -19,8 +17,6 @@ Welcome to my GitHub! I'm Filipe Chau, a Mozambican engineer with a strong backg
 - **Cloud & Virtualization**: AWS, VMware basics
 - **Project Management**: Agile methodologies, Cross-functional team leadership
 - **Problem-Solving & Teamwork**: Proven ability in crisis response, training, and cross-functional collaboration
-
----
 
 ## 📌 Highlight Projects
 
@@ -33,7 +29,6 @@ Here are a few projects I've built just for fun and learning, available in my Gi
 
 > I'm always experimenting and building—check the pinned repositories to explore more.
 
----
 
 ## ✍️ My Blog Posts
 
@@ -48,7 +43,6 @@ Some of my recent posts:
 
 *(More blog links coming soon – I'm writing regularly!)*
 
----
 
 ## 📫 Connect with Me
 
@@ -57,7 +51,6 @@ Some of my recent posts:
 - 🌍 Portfolio: [filipe-chau.github.io/MyPortfolio](https://filipe-chau.github.io/MyPortfolio)
 - 📍 Location: Maputo, Mozambique
 
----
 
 ## 🎯 Next Steps
 
@@ -71,7 +64,6 @@ I'm not yet a senior engineer—but I work every day to earn that title.
 
 If you're working on something exciting or hiring, feel free to reach out!
 
----
 
 > ⚡ “I don’t wait to be ready to act—I act to be ready.”
 
