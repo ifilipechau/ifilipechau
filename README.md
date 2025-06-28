@@ -6,7 +6,7 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 
 🔐 Over the last few years, I've worked in critical operations across sectors such as Oil & Gas and Telecommunications, ensuring secure, high-availability infrastructure.
 
-🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **Python** and **Cloud computing**.
+🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **AI** and **Cloud computing**.
 
 
 ## 🛠️ My Core Skills
@@ -43,7 +43,7 @@ Some of my recent posts:
 - [Episódio 2: Sistemas e equipamentos vitais no Data Center](https://mozitroom.blogspot.com/2025/06/episodio-2-sistemas-e-equipamentos.html)
 - [Episódio 1: O que é um Data Center e como tudo começa](https://mozitroom.blogspot.com/2025/06/episodio-1-o-que-e-um-data-center-e.html)
 
-*(More blog links coming soon – I'm writing regularly!)*
+*(More blog links coming soon !)*
 
 
 ## 🖼️ Field Gallery – My Work in Action
@@ -70,8 +70,8 @@ Below are a few snapshots from the field — working with infrastructure, securi
     <td><img src="img/slide-6.jpeg" width="250"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Overseeing the initial setup of the second server</sub></td>
-    <td align="center"><sub>Mozambique LNG Project(processing unit concept)</sub></td>
+    <td align="center"><sub>Overseeing the initial setup of the second server room</sub></td>
+    <td align="center"><sub>Mozambique LNG Project (processing unit concept)</sub></td>
     <td align="center"><sub>Inspecting genset conditions prior to startup</sub></td>
   </tr>
 </table>
