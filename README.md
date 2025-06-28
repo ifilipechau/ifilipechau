@@ -71,7 +71,7 @@ Below are a few snapshots from the field — working with infrastructure, securi
   </tr>
   <tr>
     <td align="center"><sub>Overseeing the initial setup of the second server</sub></td>
-    <td align="center"><sub>On the ground with the Mozambique LNG Infrastructure</sub></td>
+    <td align="center"><sub>Mozambique LNG Project</sub></td>
     <td align="center"><sub>Inspecting genset conditions prior to startup</sub></td>
   </tr>
 </table>
