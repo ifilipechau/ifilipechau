@@ -22,11 +22,6 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 - **Project Management**: Agile methodologies, Cross-functional team leadership
 - **Problem-Solving & Teamwork**: Proven ability in crisis response, training, and cross-functional collaboration
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 2ab5e1051bd2a895ff00b6abf0e6ba6fede454e1
 ## 📌 Highlight Projects
 
 Here are a few projects I've built just for fun and learning, available in my GitHub repos:
