@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Filipe Chau, a Mozambican engineer with a strong backg
 
 Here are a few projects I've built just for fun and learning, available in my GitHub repos:
 
-- 🔒 **Access Control System Simulation**
+- 🔌 **GeraPower — Dimensionador de Geradores Residenciais**
 - 🧠 **Data Center Monitoring Tool (Concept)**
 - 🌐 **Personal Portfolio Website** – [Live here](https://filipe-chau.github.io/MyPortfolio/)
 -  **Company Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
