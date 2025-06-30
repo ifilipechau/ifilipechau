@@ -23,7 +23,7 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 ## 📌 Highlight Projects
 
 Here are a few projects I've built just for fun and learning, available in my GitHub repos:
-
+- 🖥️ **Genset - Dimensionador de Gerador** – [View on GitHub](https://github.com/ifilipechau/genset_app)
 - 🌐 **Personal Portfolio Website** – [Live here](https://filipe-chau.github.io/MyPortfolio/)
 - 💻 **Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
 
