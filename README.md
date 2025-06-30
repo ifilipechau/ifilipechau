@@ -24,8 +24,6 @@ I'm a Mozambican engineer with a strong background in **data center operations**
 
 Here are a few projects I've built just for fun and learning, available in my GitHub repos:
 
-- 🔌 **GeraPower — Dimensionador de Geradores Residenciais**
-- 🧠 **Data Center Monitoring Tool (Concept)**
 - 🌐 **Personal Portfolio Website** – [Live here](https://filipe-chau.github.io/MyPortfolio/)
 - 💻 **Website - Electro-s** – [Live here](https://https://electro-s.co.mz/)
 
