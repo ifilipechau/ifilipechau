@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Filipe Chau
 
-**Electronic & Telecommunication Engineer | Data Center & Access Control Specialist | Aspiring CTO**
+## **Electronic & Telecommunication Engineer | Data Center & Access Control Specialist | Aspiring CTO**
 
 I'm a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Tier IV Data Center**.
 
