@@ -37,6 +37,7 @@ I also write about engineering concepts, lessons from the field, and emerging te
 📖 [My Blogger Articles](https://mozitroom.blogspot.com/search/label/filipe-chau)
 
 Some of my recent posts:
+- [Episódio 4: Incidentes Que Testaram Nossos Limites (e o que aprendemos com eles)](https://mozitroom.blogspot.com/2025/07/episodio-4-incidentes-que-testaram.html)
 - [Episódio 3: A rotina de operação e o monitoramento de um data center](https://mozitroom.blogspot.com/2025/06/episodio-3-rotina-de-operacao-e-o.html)
 - [Episódio 2: Sistemas e equipamentos vitais no Data Center](https://mozitroom.blogspot.com/2025/06/episodio-2-sistemas-e-equipamentos.html)
 - [Episódio 1: O que é um Data Center e como tudo começa](https://mozitroom.blogspot.com/2025/06/episodio-1-o-que-e-um-data-center-e.html)
