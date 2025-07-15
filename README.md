@@ -88,13 +88,11 @@ Below are a few snapshots from the field — working with infrastructure, securi
 
 
 ## 🎯 Next Steps
-
-I'm not yet a senior engineer—but I work every day to earn that title.
-
-- Exploring cloud, AI and Machine learning
-- Building useful tools
-- Writing and sharing my knowledge
-- Collaborating on meaningful engineering challenges
+I'm actively seeking opportunities to grow into a **senior engineering role** where I can leverage my skills in:
+- Data center operations and design
+- Access control and security systems
+- Cloud computing and AI integration
+- Project management and team leadership
 
 If you're working on something exciting or hiring, feel free to reach out!
 
