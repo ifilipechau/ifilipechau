@@ -88,7 +88,10 @@ Below are a few snapshots from the field — working with infrastructure, securi
 
 
 ## 🎯 Next Steps
-I'm actively seeking opportunities to grow into a **senior engineering role** where I can leverage my skills in:
+
+I'm passionate about pushing the boundaries of technology and engineering, and I'm always eager to learn and adapt.
+
+That being said, I'm actively seeking opportunities to grow into a **senior engineering role** where I can leverage my skills in:
 - Data center operations and design
 - Access control and security systems
 - Cloud computing and AI integration
