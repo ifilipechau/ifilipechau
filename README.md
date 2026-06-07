@@ -2,22 +2,22 @@
 
 ### **Electronic & Telecommunication Engineer | Data Center & Access Control Specialist**
 
-I'm a Mozambican engineer with a strong background in **data center operations**, **access control systems**, and **electronic security**, particularly in high-stakes environments like **Mozambique LNG** and **Tier IV Data Center**.
-
-🔐 Over the last few years, I've worked in critical operations across sectors such as Oil & Gas and Telecommunications, ensuring secure, high-availability infrastructure.
-
-🧠 I'm currently working toward a **senior-level engineering role** by combining my hands-on field expertise with continuous learning in **AI** and **Cloud computing**.
-
+Electronic and Communication Engineering graduate with over 5 years of experience supporting data center operations, telecommunications infrastructure, electronic security systems, and mission-critical operational environments. Experienced in server and network equipment
+deployment, rack-and-stack operations, structured cabling, environmental monitoring, power and cooling infrastructure, fire detection systems, and technical troubleshooting. Proven ability to maintain high-availability environments, support infrastructure expansion projects, and collaborate with multidisciplinary teams to ensure operational reliability, business continuity, and operational
+excellence.
 
 ## 🛠️ My Core Skills
 
 - **Data Center Engineering**: Tier IV uptime, Power Systems, HVAC, UPS, Rectifiers
-- **Access Control & Security**: Biometric, RFID, CCTV, Firewalls
-- **Network & Systems**: Windows/Linux, Network Infrastructure
-- **Programming**: Python, Bash scripting, Automation
-- **Cloud & Virtualization**: AWS, VMware basics
-- **Project Management**: Agile methodologies, Cross-functional team leadership
-- **Problem-Solving & Teamwork**: Proven ability in crisis response, training, and cross-functional collaboration
+- **IT Support & Technical Troubleshooting**
+- **Windows 10/11 & Microsoft Office Support**
+- **Access Control & Electronic Security Systems**
+- **Data Center Infrastructure Operations**
+- **Computer Networking** (TCP/IP, DNS, DHCP, VLANs, VPN)
+- **Critical Infrastructure Monitoring**
+- **Hardware & Workstation Deployment**
+- **Cross-functional Team Collaboration**
+- **Operational Compliance & Safety Procedures**
 
 
 ## 📌 Highlight Projects
@@ -90,12 +90,6 @@ Below are a few snapshots from the field — working with infrastructure, securi
 ## 🎯 Next Steps
 
 I'm passionate about pushing the boundaries of technology and engineering, and I'm always eager to learn and adapt.
-
-That being said, I'm actively seeking opportunities to grow into a **senior engineering role** where I can leverage my skills in:
-- Data center operations and design
-- Access control and security systems
-- Cloud computing and AI integration
-- Project management and team leadership
 
 If you're working on something exciting or hiring, feel free to reach out!
 
