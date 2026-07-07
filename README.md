@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Filipe Chau
+[![Filipe Chau profile views](https://u8views.com/api/v1/github/profiles/203853683/views/day-week-month-total-count.svg)](https://u8views.com/github/ifilipechau)
 
 ### **Electronic & Telecommunication Engineer | Data Center & Access Control Specialist**
 
